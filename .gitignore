@@ -12,4 +12,5 @@ egs/*/*/wav_ns/
 egs/*/*/hdf5/
 egs/*/*/downloads/
 egs/*/*/downloads
+egs/*/*/database
 .pytest_cache/
